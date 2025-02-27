@@ -44,8 +44,8 @@ Este proyecto implementa tarjetas interactivas con efecto 3D y animaciones en CS
 ## 📥 Cómo Clonar el Proyecto
 
 ```sh
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/lenninIbarrraGonzalez/3dcard
+cd 3dcard
 ```
 
 
